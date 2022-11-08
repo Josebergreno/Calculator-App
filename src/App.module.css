@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+.dog {
+  background-image: url("https://cdn.cnn.com/cnnnext/dam/assets/210602230802-01-puppy-social-skills-wellness-sci-super-tease.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  margin: 10px;
+  opacity: 1;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-dog {
+  background-color: white;
+}
+
+.german {
+  background-image: url("https://cdn.shopify.com/s/files/1/0530/4500/2416/articles/confused-dog-featured-126785.jpg?v=1630542337");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  margin: 10px;
+  opacity: 1;
+  border-radius: 5px;
+}
+
+.rick-roll {
+  background-color: blue;
+}
